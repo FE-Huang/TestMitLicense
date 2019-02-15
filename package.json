@@ -1,0 +1,19 @@
+{
+  "name": "testmitlicense",
+  "version": "1.0.0",
+  "description": "test how to manually add the MIT license",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preciousonly/TestMitLicense.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preciousonly/TestMitLicense/issues"
+  },
+  "homepage": "https://github.com/preciousonly/TestMitLicense#readme"
+}
